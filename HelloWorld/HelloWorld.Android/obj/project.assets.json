@@ -786,11 +786,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mahlatset\\Desktop\\Mobile Development\\Udemy\\HelloWorld\\HelloWorld\\HelloWorld.Android\\HelloWorld.Android.csproj",
+      "projectUniqueName": "C:\\Users\\mahlatset\\Desktop\\Xamarin.formsUdemyCourse\\HelloWorld\\HelloWorld.Android\\HelloWorld.Android.csproj",
       "projectName": "HelloWorld.Android",
-      "projectPath": "C:\\Users\\mahlatset\\Desktop\\Mobile Development\\Udemy\\HelloWorld\\HelloWorld\\HelloWorld.Android\\HelloWorld.Android.csproj",
+      "projectPath": "C:\\Users\\mahlatset\\Desktop\\Xamarin.formsUdemyCourse\\HelloWorld\\HelloWorld.Android\\HelloWorld.Android.csproj",
       "packagesPath": "C:\\Users\\mahlatset\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mahlatset\\Desktop\\Mobile Development\\Udemy\\HelloWorld\\HelloWorld\\HelloWorld.Android\\obj\\",
+      "outputPath": "C:\\Users\\mahlatset\\Desktop\\Xamarin.formsUdemyCourse\\HelloWorld\\HelloWorld.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -807,8 +807,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\mahlatset\\Desktop\\Mobile Development\\Udemy\\HelloWorld\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
-              "projectPath": "C:\\Users\\mahlatset\\Desktop\\Mobile Development\\Udemy\\HelloWorld\\HelloWorld\\HelloWorld\\HelloWorld.csproj"
+            "C:\\Users\\mahlatset\\Desktop\\Xamarin.formsUdemyCourse\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+              "projectPath": "C:\\Users\\mahlatset\\Desktop\\Xamarin.formsUdemyCourse\\HelloWorld\\HelloWorld\\HelloWorld.csproj"
             }
           }
         }
