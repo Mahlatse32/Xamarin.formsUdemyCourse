@@ -5,16 +5,22 @@
     <ContentPage.Padding>
         <OnPlatform x:TypeArguments="Thickness"
                     Android="20,30,20,20"
-                    WinPhone="20,40,20,20">
-        </OnPlatform>
+                    WinPhone="20,40,20,20"/>
+
     </ContentPage.Padding>
     <StackLayout>
-        <Button Text="Next"
+        <Button Clicked="Button_Clicked" Text="Next"
         BorderRadius="10"
         BorderWidth="2"
         BorderColor="Black"
         HorizontalOptions="Center"/>
-        <Slider Maximum="50" Minimum="16" x:Name="slide"/>
-        <Label Text=". . ." x:Name="label"/>
+        <Slider BackgroundColor="Black" Maximum="50" Minimum="16" x:Name="slide"/>
+        <Label Text=". . . " 
+               
+             FontSize="{Binding
+            Source={x:Reference slide},
+            Path=Value}"
+               
+            x:Name="label"/>
     </StackLayout>
 </ContentPage>
