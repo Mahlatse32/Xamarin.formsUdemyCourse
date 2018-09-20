@@ -6,7 +6,6 @@
         <OnPlatform x:TypeArguments="Thickness"
                     Android="20,30,20,20"
                     WinPhone="20,40,20,20"/>
-
     </ContentPage.Padding>
     <StackLayout>
         <Button Clicked="Button_Clicked" Text="Next"
@@ -22,12 +21,11 @@
             />
 
         <Slider BackgroundColor="Black" Maximum="50" Minimum="16" x:Name="slide"/>
-        <Label Text=". . . " 
-               
+        
+        <Label Text=". . . "   
              FontSize="{Binding
             Source={x:Reference slide},
             Path=Value}"
-               
             x:Name="label"/>
     </StackLayout>
 </ContentPage>
