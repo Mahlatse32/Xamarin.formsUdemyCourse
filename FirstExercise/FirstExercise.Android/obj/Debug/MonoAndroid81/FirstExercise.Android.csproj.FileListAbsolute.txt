@@ -99,9 +99,7 @@ C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise.
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.pdb
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.pdb
-C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise\bin\Debug\netstandard2.0\FirstExercise.dll
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise.Android\obj\Debug\MonoAndroid81\linksrc\FirstExercise.Android.pdb
-C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise.Android\bin\Debug\FirstExercise.dll.mdb
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise.Android\obj\Debug\MonoAndroid81\linksrc\FirstExercise.dll.mdb
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

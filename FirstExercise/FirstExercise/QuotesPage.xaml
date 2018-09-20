@@ -14,6 +14,13 @@
         BorderWidth="2"
         BorderColor="Black"
         HorizontalOptions="Center"/>
+
+        <Label Text="{Binding
+            Source={x:Reference slide},
+            Path=Value,
+            StringFormat='Font Size: {0}'}"
+            />
+
         <Slider BackgroundColor="Black" Maximum="50" Minimum="16" x:Name="slide"/>
         <Label Text=". . . " 
                

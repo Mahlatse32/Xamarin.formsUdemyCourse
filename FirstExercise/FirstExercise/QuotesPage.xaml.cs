@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,17 +16,16 @@ namespace FirstExercise
 		public QuotesPage ()
 		{
 			InitializeComponent ();
+            label.Text = QuotesData(0);
 		}
 
-        
-
-        public static void QuotesData()
+        int count = 0;
+        public static string QuotesData(int x)
         {
-
             List<ButtonClickedArgs> quoteData = new List<ButtonClickedArgs>();
 
             quoteData.Add(new ButtonClickedArgs { quotes = "The past can’t hurt you anymore, not unless you let it" });
-            quoteData.Add(new ButtonClickedArgs { quotes = "FOrtune favours the brave" });
+            quoteData.Add(new ButtonClickedArgs { quotes = "Fortune favours the brave" });
             quoteData.Add(new ButtonClickedArgs { quotes = "Did you ever stop to think, and forget to start again?" });
             quoteData.Add(new ButtonClickedArgs { quotes = "I’m not bad. I’m just drawn that way." });
             quoteData.Add(new ButtonClickedArgs { quotes = "I gave her my heart and she gave me a pen" });
@@ -37,11 +37,18 @@ namespace FirstExercise
             quoteData.Add(new ButtonClickedArgs { quotes = "To find the person you can truly trust, look no further that the nearest mirror" });
             quoteData.Add(new ButtonClickedArgs { quotes = "Better to understand little than to misunderstand a lot" });
             quoteData.Add(new ButtonClickedArgs { quotes = "I write what I like" });
+
+            return quoteData[x].quotes;
         }
 
         private void Button_Clicked(object sender, ButtonClickedArgs e)
         {
-            label.Text = ; 
+            if(count == 12)
+            {
+                count = -1;
+            }
+            count++;
+            label.Text = QuotesData(count);
         }
     }
 }
