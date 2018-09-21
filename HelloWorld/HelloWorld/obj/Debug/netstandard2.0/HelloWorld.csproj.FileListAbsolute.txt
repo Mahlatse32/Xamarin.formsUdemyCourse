@@ -16,9 +16,11 @@ C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\HelloWorld\HelloWorld\bin\De
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\GreetPage.xaml.g.cs
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\StackPage.xaml.g.cs
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.csproj.CoreCompileInputs.cache
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.AssemblyInfoInputs.cache
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.AssemblyInfo.cs
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.dll
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.pdb
+C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.csprojAssemblyReference.cache

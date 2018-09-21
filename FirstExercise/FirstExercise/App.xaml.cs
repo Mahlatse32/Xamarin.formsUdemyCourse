@@ -11,7 +11,7 @@ namespace FirstExercise
         {
             InitializeComponent();
 
-            MainPage = new QuotesPage();
+            MainPage = new StackLayoutTwo();
         }
 
         protected override void OnStart()
