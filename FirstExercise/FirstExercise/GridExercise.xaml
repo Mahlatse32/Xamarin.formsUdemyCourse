@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirstExercise.GridExercise">
+    
+    <StackLayout BackgroundColor="#354242">
+        
+        <Label FontSize="50" Text="1234" HorizontalOptions="Center" TextColor="White"/>
+
+        <Grid RowSpacing="10" Padding="40" ColumnSpacing="10" >
+        
+            <Button Grid.Row="0" Grid.Column="0" Text="1" BackgroundColor="#fff" BorderRadius="30"/>
+            <Button Grid.Row="0" Grid.Column="1" Text="2" BackgroundColor="#fff" BorderRadius="30"/>
+            <Button Grid.Row="0" Grid.Column="2" Text="3" BackgroundColor="#fff" BorderRadius="30"/>
+            <Button Grid.Row="1" Grid.Column="0" Text="4" BackgroundColor="#fff" BorderRadius="30"/>
+            <Button Grid.Row="1" Grid.Column="1" Text="5" BackgroundColor="#fff" BorderRadius="30"/>
+            <Button Grid.Row="1" Grid.Column="2" Text="6" BackgroundColor="#fff" BorderRadius="30"/>
+            <Button Grid.Row="2" Grid.Column="0" Text="7" BackgroundColor="#fff" BorderRadius="30"/>
+            <Button Grid.Row="2" Grid.Column="1" Text="8" BackgroundColor="#fff" BorderRadius="30"/>
+            <Button Grid.Row="2" Grid.Column="2" Text="9" BackgroundColor="#fff" BorderRadius="30"/>
+            <Button Grid.Row="3" Grid.Column="1" Text="0" BackgroundColor="#fff" BorderRadius="30"/>
+
+            <Button Grid.Row="4" Grid.ColumnSpan="3" Text="Dial" BackgroundColor="#96ca2d" BorderRadius="30"/>
+        </Grid>
+
+    </StackLayout>
+</ContentPage>

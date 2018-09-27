@@ -1,10 +1,13 @@
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise\bin\Debug\netstandard2.0\FirstExercise.deps.json
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise\bin\Debug\netstandard2.0\FirstExercise.dll
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise\bin\Debug\netstandard2.0\FirstExercise.pdb
+C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise\obj\Debug\netstandard2.0\FirstExercise.csprojAssemblyReference.cache
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise\obj\Debug\netstandard2.0\GridExercise.xaml.g.cs
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise\obj\Debug\netstandard2.0\QuotesPage.xaml.g.cs
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise\obj\Debug\netstandard2.0\StackLayout.xaml.g.cs
+C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise\obj\Debug\netstandard2.0\StackLayoutThree.xaml.g.cs
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise\obj\Debug\netstandard2.0\StackLayoutTwo.xaml.g.cs
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise\obj\Debug\netstandard2.0\FirstExercise.csproj.CoreCompileInputs.cache
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\FirstExercise\FirstExercise\obj\Debug\netstandard2.0\FirstExercise.AssemblyInfoInputs.cache
