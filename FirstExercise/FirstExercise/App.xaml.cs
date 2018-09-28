@@ -11,7 +11,7 @@ namespace FirstExercise
         {
             InitializeComponent();
 
-            MainPage = new StackLayoutThree();
+            MainPage = new AbsoluteLayoutTwo();
         }
 
         protected override void OnStart()

@@ -13,7 +13,6 @@ C:\Users\mahlatset\Desktop\Mobile Development\Udemy\HelloWorld\HelloWorld\HelloW
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.deps.json
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.dll
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.pdb
-C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\HelloWorld.csprojAssemblyReference.cache
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\GreetPage.xaml.g.cs
 C:\Users\mahlatset\Desktop\Xamarin.formsUdemyCourse\HelloWorld\HelloWorld\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
